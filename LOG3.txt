@@ -1,0 +1,16 @@
+UFRN
+SISTEMAS OPERACIONAIS
+ALUNOS: Alvaro Ramos, Jean Mario, e Josiele Queiroz
+ALGORITMO SHORTEST JOB FIRST
+
+
+
+
+
+Tempo medio de processamento: 1753051
+Tempo medio de espera: 796341
+Tempo total de utilizacao da CPU: 1618628
+Tempo que a CPU permaneceu ocupada: 1618511
+Taxa Percentual da Ocupacao da CPU: 0.999
+Tempo que a CPU permaneceu ociosa: 117
+Taxa Percentual da ociosidade da CPU: 7.22e-5
